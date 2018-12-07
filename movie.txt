@@ -1,2 +1,1 @@
-Testing add command
 Master asking what is your favorite movie?
